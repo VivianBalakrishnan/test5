@@ -6,7 +6,7 @@ order: 40
 ---
 <p>In October 2001, I was introduced as a candidate for the People&#8217;s Action Party in the November 2001 election. This was the statement I made to the media at that time. From time to time, I re-read it and check that I have stayed true to the cause.</p>
 
-<p>My decision to enter party politics has been a very difficult one, made after intense soul searching. I have spent most of my adult life being sceptical of the PAP. I have also been publicly critical of some government policies in the past. It would be hypocritical for me to pretend that these objections have suddenly evaporated.</p>
+My decision to enter party politics has been a very difficult one, made after intense soul searching. I have spent most of my adult life being sceptical of the PAP. I have also been publicly critical of some government policies in the past. It would be hypocritical for me to pretend that these objections have suddenly evaporated.
 
 <p>I will therefore have to explain my personal political journey thus far.</p>
 
